@@ -1,12 +1,6 @@
 안녕하세요:hand:<br>
 백엔드 개발자를 꿈꾸고 있는 김혜진입니다.
   
-### :mailbox_closed: Contact
-<p>
-  <a href="https://blog.naver.com/rlagpwlsq789" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"</a>
-  <a href="mailto:rlagpwlsq78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlagpwlsq78@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-</p>
-  
 ### :muscle: Interest
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
