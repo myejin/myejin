@@ -1,6 +1,3 @@
-안녕하세요:hand:<br>
-백엔드 개발자를 꿈꾸고 있는 김혜진입니다.
-  
 ### :muscle: Interest
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
